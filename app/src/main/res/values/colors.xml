@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#44bd32</color>
+    <color name="pixel">#009432</color>
+    <color name="android">#a3cb38</color>
+    <color name="skiret">#44bd32</color>
+
+</resources>

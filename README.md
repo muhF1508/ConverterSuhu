@@ -9,5 +9,6 @@
 Component :
 - Constraint Layout  
 - Text View
+- Splash Screen
 - Button
 - Image View
